@@ -25,7 +25,7 @@
   "mac": {
     "target": [
       { "target": "dmg", "arch": ["universal"] },
-      { "target": "zip", "arch": ["arm64", "x64"] }
+      { "target": "zip", "arch": ["universal"] }
     ],
     "icon": "build/icons/mac/icon.icns",
     "category": "public.app-category.utilities"
